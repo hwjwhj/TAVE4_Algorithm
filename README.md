@@ -19,9 +19,9 @@
     + https://github.com/his9989/TAVE4_Algorithm 에서 New pull Request 클릭
     ![step1](./imgFile/1.png)
   + 2) 본인계정<-his9989가 되도록 한 후, commit message 작성하여 Create pull request 클릭
-    ![step2](.imgFile/2.png)
+    ![step2](./imgFile/2.png)
   + 3) 단, New pull Request를 클릭했는데, 다음과 같은 화면이 나오면, 아래 검정색 동그라미 "compare across forks" 클릭
-    ![step3](.imgFile/3.png)
+    ![step3](./imgFile/3.png)
   + 4) 본인 계정의 TAVE4_Algorithm repository에서 upload files를 클릭한뒤, cpp파일을 드래그&드랍하고, 업로드한다.
   + 5) 본인계정에서 his9989로 New Pull Request한다.
     + 1~3과정과 같다.

@@ -19,7 +19,7 @@ void dfs(int x) {
 	c1[x] = true;
 	cout << x << ' ';
 
-	// ë‚´ë¦¼ì°¨ìˆœ ì •ë ¬ 
+	// ³»¸²Â÷¼ø Á¤·Ä 
 	for (int i = 0; i < a[x].size(); i++) {
 		for(int j = 1; j < a[x].size(); j++) {
 			if(a[x][j - 1] > a[x][j]) {
@@ -42,7 +42,7 @@ void bfs(int start) {
 	c2[start] = true;
 	int temp = 0;
 	
-	// ë‚´ë¦¼ì°¨ìˆœ ì •ë ¬ 
+	// ³»¸²Â÷¼ø Á¤·Ä 
 	for (int i = 0; i < a[start].size(); i++) {
 		for(int j = 1; j < a[start].size(); j++) {
 			if(a[start][j - 1] > a[start][j]) {
